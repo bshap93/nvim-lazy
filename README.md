@@ -5,3 +5,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 # lazy-vim-config
 # lazy-vim-config
 # nvim
+# nvim
